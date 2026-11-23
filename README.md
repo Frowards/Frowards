@@ -6,7 +6,7 @@
 - 🗄️ **Back-end** : API REST en PHP 8, base PostgreSQL, intégrations (ERP Oracle, caisses, outils de facturation)
 - 🚀 **Production** : Docker, déploiement automatisé, supervision
 - 🎮 **Avant** : serious games et réalité virtuelle (Unity, C#) pour Sanofi et la SNCF, après un Master d'analyste programmeur jeux vidéo
-- 🌍 **Ouvert aux opportunités** en France, Belgique, Luxembourg et au Canada - nationalités française et belge
+- 🌍 **Ouvert aux opportunités** en France, Belgique, Luxembourg, au Canada et aux États-Unis - nationalités française et belge
 
 **🔗 [Portfolio](https://frowards.github.io/?lang=fr) · [LinkedIn](https://www.linkedin.com/in/pierre-bernard-darmann/) · [Me contacter](https://frowards.github.io/?lang=fr#contact)**
 
@@ -19,7 +19,7 @@
 - 🖥️ **Interface, from design to code**: 130+ screens, design system, theming, vanilla JavaScript front-end framework
 - 🗄️ **Back end**: REST API in PHP 8, PostgreSQL, integrations
 - 🎮 **Before**: VR and serious games (Unity, C#) for Sanofi and SNCF
-- 🌍 **Open to opportunities** in France, Belgium, Luxembourg and Canada - French and Belgian citizen
+- 🌍 **Open to opportunities** in France, Belgium, Luxembourg, Canada and the United States - French and Belgian citizen
 
 **🔗 [Portfolio (English)](https://frowards.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/pierre-bernard-darmann/) · [Contact me](https://frowards.github.io/en/#contact)**
 
